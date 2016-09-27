@@ -20,6 +20,13 @@ HoloViews and if we find content that no longer works and that
 cannot be easily fixed, we will archive it by moving it to the
 archive subdirectory.
 
+
+To browse the available notebooks on GitHub without requiring
+mybinder, please start with our [index
+notebook](https://github.com/ioam/holoviews-contrib/blob/master/index.ipynb). Once
+you have found a notebook you want to run live, click the binder launch
+badge above.
+
 For live notebooks, we are using the generous free service
 offered by [mybinder.org](http://mybinder.org/). At the time of
 writing, this is the only free service that we know of capable of
