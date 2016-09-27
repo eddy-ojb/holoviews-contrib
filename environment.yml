@@ -1,4 +1,4 @@
-name: holoviews
+name: holoviews-contrib
 
 dependencies:
   - python=2.7
