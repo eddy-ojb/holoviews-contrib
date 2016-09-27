@@ -1,7 +1,7 @@
 """
-Name:        Template
-HoloViews:   1.6.2
+Description: Script template
 Author:      Author
+HoloViews:   1.6.2
 Python:      2.7
 
 Please fill in the three fields above as appropriate and replace this
