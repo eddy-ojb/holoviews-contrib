@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/ioam/holoviews-contrib)
+
 # HoloViews User Contributions
 
 This repository is to allow [HoloViews](holoviews.org) users to share
