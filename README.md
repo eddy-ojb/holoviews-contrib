@@ -3,7 +3,7 @@
 
 # HoloViews User Contributions
 
-This repository is to allow [HoloViews](holoviews.org) users to
+This repository is designed to allow [HoloViews](holoviews.org) users to
 share tips, tricks and notebooks as easily as possible.
 
 To browse user submitted content, please visit:
