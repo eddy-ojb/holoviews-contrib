@@ -9,7 +9,7 @@ share tips, tricks and notebooks as easily as possible.
 To browse user submitted content, please visit:
 
 * Our [index of static content](https://github.com/ioam/holoviews-contrib/blob/master/index.md)
-* Our [live index notebook on mybinder.org](http://mybinder.org/repo/ioam/holoviews-contrib)
+* Our [live index on mybinder.org](http://mybinder.org/repo/ioam/holoviews-contrib)
 
 You can also view the index of available live notebooks [directly on GitHub](https://github.com/ioam/holoviews-contrib/blob/master/index.ipynb).
 
