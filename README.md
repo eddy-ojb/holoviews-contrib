@@ -22,7 +22,7 @@ cannot be easily fixed, we will archive it by moving it to the archive
 subdirectory. For our contribution guidelines, see
 [CONTRIBUTING.md](https://github.com/ioam/holoviews-contrib/blob/master/CONTRIBUTING.md).
 
-## Using of mybinder.org
+## mybinder.org
 
 For live notebooks, we are using the generous free service offered by
 [mybinder.org](http://mybinder.org/). At the time of writing, this is the only free
