@@ -15,6 +15,8 @@ mybinder](http://mybinder.org/repo/ioam/holoviews-contrib).
 This is a list of static notebooks that may be viewed with
 [nbviewer](http://nbviewer.jupyter.org/):
 
+* [Arrow plotting hook example](http://nbviewer.jupyter.org/github/ioam/holoviews-contrib/blob/master/notebooks/examples/arrow_plotting_hook.ipynb)
+
 ## Scripts
 
 This is a list of scripts showing how to use HoloViews outside of notebooks:
