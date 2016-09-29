@@ -4,9 +4,9 @@ Author:      Jean-Luc Stevens
 HoloViews:   1.6+
 Python:      2.7+
 
-This script demonstrates how to render HoloViews objects to file using
-the matplotlib backend, including custom styles outside of Jupyter
-Notebooks, using the vanilla Python interpreter. This script uses core
+This script demonstrates how to render HoloViews objects directly to
+files using just the vanilla Python interpreter and Matplotlib,
+i.e. without using IPython or a Jupyter notebook.  This script uses core
 HoloViews (no extra dependencies) with the matplotlib backend.
 
 To export HoloMaps to MP4, you need matplotlib animation support for
