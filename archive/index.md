@@ -1,7 +1,7 @@
 # Archive
 
 This subdirectory is for user contributed content that no longer works
-with the latest (stable) version of HoloViews and that is cannot be
+with the latest (stable) version of HoloViews and that cannot be
 trivially updated. All contributions here should list the last stable
 version that they were known to work with.
 
