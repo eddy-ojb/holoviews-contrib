@@ -11,7 +11,8 @@ To browse user submitted content, please visit:
 * Our [index of static content](https://github.com/ioam/holoviews-contrib/blob/master/index.md): Anything that can be viewed without a live Python server
 * Our [live index on mybinder.org](http://mybinder.org/repo/ioam/holoviews-contrib): Examples that require a running Python process, such as dynamically generated content
 
-You can also view the static index of available live notebooks [directly on GitHub](https://github.com/ioam/holoviews-contrib/blob/master/index.ipynb).
+You can also view the static index of available live notebooks [directly on GitHub](https://github.com/ioam/holoviews-contrib/blob/master/index.ipynb). If you discover any content that isn't working with the latest HoloViews version, please
+[report it here](https://github.com/ioam/holoviews-contrib/issues/4).
 
 ## Contributing
 
