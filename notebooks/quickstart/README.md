@@ -1,7 +1,7 @@
 # Quickstart guides
 
 This subdirectory is intended to hold user-contributed quickstart
-guides. A quickstart notebook is one defined by that addresses a topic
+guides. A quickstart notebook is one that addresses a particular topic
 while assuming minimal prior knowledge and without delving into any
 unnecessary detail.
 
