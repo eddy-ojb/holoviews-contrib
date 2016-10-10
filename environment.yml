@@ -17,7 +17,6 @@ dependencies:
   - pygments
   - notebook
   - matplotlib
-  - lancet-ioam
   - pandas
   - seaborn
   - mpld3
