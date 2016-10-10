@@ -1,5 +1,9 @@
 name: holoviews-contrib
 
+channels:
+  - ioam/label/dev
+  - defaults
+
 dependencies:
   - python=2.7
   - holoviews
