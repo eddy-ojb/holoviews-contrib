@@ -2,12 +2,10 @@ name: holoviews-contrib
 
 channels:
   - ioam/label/dev
-  - ioam
   - defaults
 
 dependencies:
   - python=2.7
-  - param>=1.4.1
   - holoviews
   - numpy
   - pyzmq
