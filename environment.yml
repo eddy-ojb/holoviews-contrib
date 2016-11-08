@@ -6,7 +6,7 @@ channels:
 
 dependencies:
   - python
-  - holoviews
+  - holoviews>=1.7dev2
   - numpy
   - pyzmq
   - jinja2
